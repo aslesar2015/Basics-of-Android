@@ -58,14 +58,14 @@
 
     <TextView
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="72dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="55dp"
+        android:layout_marginStart="46dp"
         android:layout_marginTop="39dp"
-        android:layout_marginEnd="44dp"
-        android:layout_marginBottom="85dp"
+        android:layout_marginEnd="53dp"
+        android:layout_marginBottom="62dp"
         android:text="@string/about_creator"
         android:textAlignment="center"
         android:textColor="@color/purple_700"
