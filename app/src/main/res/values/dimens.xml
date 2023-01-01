@@ -1,15 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="fab_margin">16dp</dimen>
-    <dimen name="dimen_for_splash_margin_start_and_end">20dp</dimen>
-    <dimen name="dimen_logo_and_header_menu_center">83dp</dimen>
-    <dimen name="dimen_for_game">30dp</dimen>
-    <dimen name="dimen_for_padding">3dp</dimen>
-    <dimen name="dimen_for_height">15dp</dimen>
-    <dimen name="dimen_margin_start_and_end_for_menu">40dp</dimen>
-    <dimen name="dimen_margin_top_for_menu">70dp</dimen>
-    <dimen name="dimen_padding_horizontal">50dp</dimen>
-    <dimen name="dimen_zero">0dp</dimen>
-
-    <dimen name="dimen_text_size_header_menu">62sp</dimen>
-    <dimen name="dimen_text_size">24sp</dimen>
+    <dimen name="screenPadding">18dp</dimen>
+    <dimen name="font_size">16sp</dimen>
+    <dimen name="zero_dp">0dp</dimen>
+    <dimen name="margin_list">14dp</dimen>
+    <dimen name="textSizeName">20sp</dimen>
+    <dimen name="buttonRadius">18dp</dimen>
+    <dimen name="img_size">36dp</dimen>
+    <dimen name="img_pad">4dp</dimen>
+    <dimen name="marEnd">6dp</dimen>
 </resources>
